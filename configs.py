@@ -16,7 +16,7 @@ class Config(object):
     
     
     
-My Name: <a href='https://t.me/maxxmoviesrobot'>Don't Click</a>
+My Name: <a href='https://t.me/gopalbharbot'>Gopal Bhar</a>
 
 Language : <a href='https://www.python.org'> Python V3</a>
 
@@ -24,10 +24,10 @@ Library: <a href='https://docs.pyrogram.org'> Pyrogram</a>
 
 Server: <a href='Google.com'>Private</a>
 
-Created By: <a href='https://t.me/Dreamer999'>Don't Click</a></b>
+Created By: <a href='https://t.me/Royaldwip'>Royaldwip</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b> Creator : <a href='https://t.me/Dreamer999'>Mr.Shnog</a>
+    ABOUT_HELP_TEXT = """<b> Creator : <a href='https://t.me/Royaldwip'>Royaldwip</a>
 ɪ Aᴍ Sɪᴍᴘʟᴇ Mᴏᴠɪᴇ Fɪɴᴅɪɴɢ Rᴏʙᴏᴛ.. 
 Iғ Yᴏᴜ Dᴏɴ'ᴛ Kɴᴏᴡ Hᴏᴡ Tᴏ Usᴇ Mᴇ? 
 Kᴏɪ Nᴀ Bᴀᴛᴀ Dᴇᴛʜᴀ Hᴏᴏɴ Mᴜᴊᴇ Kᴀɪsᴀ Usᴇ Kᴀʀᴇ! Wᴀsᴀ Yᴇ Mᴀᴛ Sᴀᴍᴊᴏ Mᴜᴊᴇ Eɴɢʟɪsʜ Nʜɪ Aᴛᴀ Hᴀɪɴ Mᴜᴊᴇ Aᴛᴀ Hᴀɪɴ Bᴜᴛ Bᴏʟᴛᴀ Nʜɪ Bᴇᴄᴀᴜsᴇ Eɴɢʟɪsʜ Iɴᴅɪᴀ Kᴀ Lᴀɴɢᴜᴀɢᴇ Nʜɪ HᴀɪN.. 
@@ -36,23 +36,23 @@ Bᴜᴛ Fʜɪʀ Bʜɪ Bᴏʟᴛᴀ Hᴏᴏɴ Kʏᴀ Kᴀʀᴇ Bᴀᴄʜᴘᴀɴ 
 """
 
     HOME_TEXT = """
-<b>Hey! {},
+<b>Hello! {},
 
-I'm Maxx Search Robot.
+I'm Gopal Bhar Bot.
 
 I Can Search Movies What You Want
 
-<a>Any Query @Dreamer999</a></b>
+<a>My Friend @Royaldwip</a></b>
 """
 
 
     START_MSG = """
 <b>Hey! {},
 
-I'm Maxx Search Robot.
+I'm Gopal Bhar Bot.
 
 I Can Search Movies What You Want
 
-<a>Any Query @Dreamer999</a></b>
+<a>Please Join @WOMBACKUP</a></b>
 """
 
