@@ -26,8 +26,8 @@ async def start_handler(_, event: Message):
 	await event.reply_photo("https://telegra.ph/file/35857d4d81a27bf20bdeb.jpg",
                                 caption=Config.START_MSG.format(event.from_user.mention),
                                 reply_markup=InlineKeyboardMarkup([
-					[InlineKeyboardButton('Our Group', url='https://t.me/+x_SyirDsEUs4YmJl')],
-					[InlineKeyboardButton("Updates 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/New_2022_released")],
+					[InlineKeyboardButton('Our Group', url='https://t.me/womrequest')],
+					[InlineKeyboardButton("Updates 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/worldofmovies8")],
 					[InlineKeyboardButton("Help", callback_data="Help_msg"),
                                         InlineKeyboardButton("About", callback_data="About_msg")]
 				]))
@@ -37,8 +37,8 @@ async def help_handler(_, event: Message):
 
     await event.reply_text(Config.ABOUT_HELP_TEXT.format(event.from_user.mention),
         reply_markup=InlineKeyboardMarkup([
-		[InlineKeyboardButton('Our Group', url='https://t.me/+x_SyirDsEUs4YmJl')
-	 ],[InlineKeyboardButton("Updates 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/New_2022_released"), 
+		[InlineKeyboardButton('Our Group', url='https://t.me/womrequest')
+	 ],[InlineKeyboardButton("Updates 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/worldofmovies8"), 
              InlineKeyboardButton("𝙰𝚋𝚘𝚞𝚝", callback_data="About_msg")]
         ])
     )
@@ -76,10 +76,10 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton('Owner', url='@dreamer999')
+						InlineKeyboardButton('Must Join', url='https://t.me/wombackup')
 					],
 					[
-						InlineKeyboardButton("Updates 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/New_2022_released")
+						InlineKeyboardButton("Movie 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/worldofmovies8")
 					],
 					[
 						InlineKeyboardButton("Home", callback_data="gohome")
@@ -95,10 +95,10 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-					InlineKeyboardButton('Our Group', url='https://t.me/+x_SyirDsEUs4YmJl')
+					InlineKeyboardButton('Our Group', url='https://t.me/womrequest')
 					],
 					[
-					InlineKeyboardButton("Updates 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/New_2022_released")
+					InlineKeyboardButton("Bengali Movie Channel 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/Wombengali")
 					], 
                                         [
 					InlineKeyboardButton("Home", callback_data="gohome"),
@@ -115,10 +115,10 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
                                         [
-					InlineKeyboardButton('Admin', url='@Dreamer999')
+					InlineKeyboardButton('Join', url='https://t.me/worldofmobies8')
 					],
 					[
-					InlineKeyboardButton("Updates 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/New_2022_released")
+					InlineKeyboardButton("Updates 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/wombackup")
 					],
 					[
 					InlineKeyboardButton("Help", callback_data="Help_msg"),
